@@ -16,7 +16,7 @@ export default function AdminLayout() {
          <div className='flex bg-gray-300'>
             <div className='w-40 bg-slate-800 h-screen'>
                <div className='p-3'>
-                  <NavLink to='/home'><img src="https://cdn.icon-icons.com/icons2/3380/PNG/512/film_youtube_video_movie_social_media_multimedia_icon_212509.png" alt="" className='w-20' /></NavLink>                  
+                  <NavLink to='/home'><img src="https://cyberlearn.vn/wp-content/uploads/2020/03/cyberlearn-min-new-opt2.png" alt="" className='w-30' /></NavLink>                  
                </div>
                <div className='mt-5 space-y-2'>
                   <NavLink style={active} to='films' className='block px-3 py-1 text-white text-base font-semibold hover:text-white hover:bg-gray-300'>Quản lý phim</NavLink>

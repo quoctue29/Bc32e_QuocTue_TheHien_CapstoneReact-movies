@@ -19,7 +19,7 @@ export default function Header() {
                <div>
                   <div className="flex items-center justify-between lg:block">
                      <NavLink to="home">
-                        <img className="w-10" src="https://cdn.icon-icons.com/icons2/3380/PNG/512/film_youtube_video_movie_social_media_multimedia_icon_212509.png" alt="" />
+                        <img className="w-30" src="https://cyberlearn.vn/wp-content/uploads/2020/03/cyberlearn-min-new-opt2.png" alt="" />
                      </NavLink>
                      <div className="lg:hidden">
                         <button className="p-2 text-black rounded-md outline-none border" onClick={() => setNavbar(!navbar)}>
